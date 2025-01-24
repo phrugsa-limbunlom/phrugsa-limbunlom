@@ -8,6 +8,3 @@
 🔍 A quality analyst conducts manual and automated testing to meet high-quality standard software.
 
 🤝 Having experience working with global IT consulting firms and have been involved in projects utilizing Agile methodology.
-
-## Research Interest
-My research interest focuses on enhancing cognitive function in the current machine intelligence system. I am interested in researching approaches to tackle reasoning challenges in current LLM and multimodel, especially vision-related tasks. I am currently studying the feasibility of leveraging Joint-embedding predictive architecture (JEPA) and energy-based models to address such problems. I aim to build an intelligence system that requires a small sample for training when learning new situations.
