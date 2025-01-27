@@ -3,7 +3,7 @@
 
 🎓 Bachelor's degree in Computer science, Mahidol University.
 
-💻 software engineering (backend) implements microservices and API integration for robust and scalable software.
+💻 Software engineering (backend) implements microservices and API integration for robust and scalable software.
 
 🔍 Quality analyst conducts manual and automated testing to meet high-quality standard software.
 
