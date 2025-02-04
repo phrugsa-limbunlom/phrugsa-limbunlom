@@ -1,7 +1,5 @@
 ## About Me
-🎓 Master's degree in AI with Distinction, University of Essex. ([Dissertation](https://github.com/phrugsa-limbunlom/SeGAN))
-
-🎓 Bachelor's degree in Computer science, Mahidol University.
+✨ AI Enthusiast
 
 💻 Software engineer (backend) implements microservices and API integration for robust and scalable software. 
 
@@ -9,6 +7,18 @@
 
 🤝 Having experience working with global IT consulting firms and have been involved in projects utilizing Agile methodology.
 
+## Education
+
+🎓 Master's degree in AI with Distinction, University of Essex. 
+
+Dissertation: Sentiment-Enhanced GAN for Stock Price Forecasting ([SeGAN](https://github.com/phrugsa-limbunlom/SeGAN))
+
+Projects: [Deep learning](https://github.com/phrugsa-limbunlom/multi-regressor-mlp), [Computer vision](https://github.com/phrugsa-limbunlom/densenet201-classifier), [Machine learning](https://github.com/phrugsa-limbunlom/mimo-regressor)
+
+🎓 Bachelor's degree in Computer science, Mahidol University.
+
+Thesis: Empirical Investigation and Supporting program for Mandibular Fracture Classification and Localization Algorithm on X-ray images of Skull ([mandy-ml](https://github.com/ICT-Mahidol/mandy-ml), [mandy-app](https://github.com/ICT-Mahidol/mandy-app), [GradCAM](https://github.com/phrugsa-limbunlom/GradCAM))
+  
 ## Industry-based Project Interest
 I am passionate about developing AI-driven software solutions to address business challenges and drive growth. My primary focus is creating software that seamlessly integrates Generative and Agentic AI to optimize and enhance business processes. I also aim to develop user-friendly software that can solve real-world challenges and make it more convenient for users without a technical background. 
 
