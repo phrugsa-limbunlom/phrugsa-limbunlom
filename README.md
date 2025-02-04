@@ -33,3 +33,6 @@ I have developed a research proposal outlining my idea. Please feel free to cont
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phrugsa-limbunlom&theme=solarized_dark" alt="Profile Summary">
 </p>
+
+## Other
+A collection of algorithms implemented by Java ([algoj](https://github.com/phrugsa-limbunlom/algoj)), Scala ([algos](https://github.com/phrugsa-limbunlom/algos)), and Python ([algopy](https://github.com/phrugsa-limbunlom/algopy)) for practicing.
