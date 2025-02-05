@@ -1,5 +1,5 @@
 ## About Me
-✨ AI enthusiast, who is deeply interested in AI-driven solutions and the development of AI-powered products. I have hands-on experience implementing models for regression and classification problems, including financial forecasting, image classification, and biochemical production. Now, I am eager to design sophisticated AI workflows for generative and automation tasks using Generative AI and AI agents, while also exploring world models to tackle reasoning challenges.
+✨ AI enthusiast deeply interests in AI-driven solutions and AI-powered product development. Having hands-on experience implementing models for regression and classification problems, including financial forecasting, image classification, and biochemical production. Now, eager to design sophisticated AI workflows for generative and automation tasks using Generative AI and AI agents, while also exploring world models to tackle reasoning challenges.
 
 💻 Software engineer (backend) implements microservices and API integration for robust and scalable software. 
 
