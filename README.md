@@ -1,5 +1,12 @@
 ## About Me
-✨ I am deeply interested in AI-driven solutions and AI-powered product development. I have hands-on experience implementing machine learning and deep learning models to solve regression and classification problems, including financial forecasting (RNN-based GANs), image classification (CNN), and biochemical production (Random Forest, XGBoost, SVM). I am now eager to design sophisticated AI workflows for generative and automation tasks using Generative AI and AI agents. I am also interested in exploring world models to tackle reasoning challenges, specifically the cognitive function in current models.
+✨ I am deeply interested in AI-driven solutions and AI-powered product development. I have hands-on experience implementing machine learning and deep learning models to solve regression and classification problems, including:
+
+- Financial forecasting (RNN-based GANs)
+- Image classification (CNN)
+- Spacecraft landing (MLP)
+- Biochemical production (Random Forest, XGBoost, SVM)
+
+I am now eager to design sophisticated AI workflows for generative and automation tasks using Generative AI and AI agents. I am also interested in exploring world models to tackle reasoning challenges, specifically the cognitive function in current models.
 
 ## Work Experience
 
