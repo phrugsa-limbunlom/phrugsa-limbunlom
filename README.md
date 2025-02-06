@@ -1,10 +1,14 @@
 ## About Me
-✨ I am deeply interested in AI-driven solutions and AI-powered product development. I have hands-on experience implementing machine learning and deep learning models to solve regression and classification problems, including 
+✨ I have a strong passion for pioneering advancements in AI. I have hands-on experience implementing machine learning and deep learning models to solve regression and classification problems, including 
 
-- financial forecasting (RNN-based GANs) • satellite image classification [(cnn)](https://github.com/phrugsa-limbunlom/densenet201-classifier) • spacecraft landing [(mlp)](https://github.com/phrugsa-limbunlom/multi-regressor-mlp)
-- machine translation [(transformer)](https://github.com/phrugsa-limbunlom/transformer-machine-translation) • biochemical production [(random forest, XGBoost, svm)](https://github.com/phrugsa-limbunlom/mimo-regressor)
+- financial forecasting (RNN-based GANs) • satellite image classification [(cnn)](https://github.com/phrugsa-limbunlom/densenet201-classifier)
+- spacecraft landing [(mlp)](https://github.com/phrugsa-limbunlom/multi-regressor-mlp) • biochemical production [(random forest, XGBoost, svm)](https://github.com/phrugsa-limbunlom/mimo-regressor)
 
-I am now eager to design sophisticated AI workflows for generative and automation tasks using Generative AI and AI agents. I am also interested in exploring world models to tackle reasoning challenges, specifically the cognitive function in current models.
+I am now eager to design sophisticated AI workflows for generative and automation tasks using Generative AI and AI agents. The example projects include:
+
+- machine translation [(transformer)](https://github.com/phrugsa-limbunlom/transformer-machine-translation) • AI-powered chatbot [(PickSmart)](https://github.com/phrugsa-limbunlom/PickSmart)
+
+I am also interested in exploring world models to tackle reasoning challenges, specifically the cognitive function in current models.
 
 ## Work Experience
 
@@ -26,8 +30,6 @@ Thesis: Empirical Investigation and Supporting program for Mandibular Fracture C
   
 ## Industry-based Project Interest
 I am passionate about developing AI-driven software solutions to address business challenges and drive growth. My primary focus is creating software that seamlessly integrates Generative and Agentic AI to optimize and enhance business processes. I also aim to develop user-friendly software that can solve real-world challenges and make it more convenient for users without a technical background. 
-
-Example project : [PickSmart](https://github.com/phrugsa-limbunlom/PickSmart)
 
 ## Research Interest
 My research interest focuses on enhancing cognitive function in the current machine intelligence system. I am interested in researching approaches to tackle reasoning challenges in current LLM and multimodal, especially vision-related tasks. I am currently studying the feasibility of leveraging Joint-embedding predictive architecture (JEPA) and energy-based models to address such problems. I aim to build an intelligence system that requires a small training sample for learning new situations. 
