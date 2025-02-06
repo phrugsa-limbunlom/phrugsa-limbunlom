@@ -1,11 +1,8 @@
 ## About Me
-✨ I am deeply interested in AI-driven solutions and AI-powered product development. I have hands-on experience implementing machine learning and deep learning models to solve regression and classification problems, including:
+✨ I am deeply interested in AI-driven solutions and AI-powered product development. I have hands-on experience implementing machine learning and deep learning models to solve regression and classification problems, including 
 
-- Financial forecasting (RNN-based GANs)
-- Image classification [(CNN)](https://github.com/phrugsa-limbunlom/densenet201-classifier)
-- Spacecraft landing [(MLP)](https://github.com/phrugsa-limbunlom/multi-regressor-mlp)
-- Machine Translation [(Transformer)](https://github.com/phrugsa-limbunlom/transformer-machine-translation)
-- Biochemical production [(Random Forest, XGBoost, SVM)](https://github.com/phrugsa-limbunlom/mimo-regressor)
+- financial forecasting (RNN-based GANs) • satellite image classification [(cnn)](https://github.com/phrugsa-limbunlom/densenet201-classifier) • spacecraft landing [(mlp)](https://github.com/phrugsa-limbunlom/multi-regressor-mlp)
+- machine translation [(transformer)](https://github.com/phrugsa-limbunlom/transformer-machine-translation) • biochemical production [(random forest, XGBoost, svm)](https://github.com/phrugsa-limbunlom/mimo-regressor)
 
 I am now eager to design sophisticated AI workflows for generative and automation tasks using Generative AI and AI agents. I am also interested in exploring world models to tackle reasoning challenges, specifically the cognitive function in current models.
 
