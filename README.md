@@ -11,7 +11,8 @@ I am also interested in exploring world models to tackle reasoning challenges, s
 
 ## Education
 
-🎓 Master's degree in AI with Distinction, University of Essex    
+🎓 Master's degree in AI with Distinction, University of Essex
+
 🎓 Bachelor's degree in Computer science, Mahidol University
 
 ## Work Experience
