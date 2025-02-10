@@ -5,7 +5,7 @@
 
 I am now eager to design sophisticated AI workflows for generative and automation tasks using Generative AI and AI agents. The example projects include:
 
-- machine translation [(transformer)](https://github.com/phrugsa-limbunlom/transformer-machine-translation) • AI-powered chatbot [(PickSmart)](https://github.com/phrugsa-limbunlom/PickSmart)
+- machine translation [(transformer)](https://github.com/phrugsa-limbunlom/transformer-machine-translation) • AI-powered shopping assistant [(PickSmart)](https://github.com/phrugsa-limbunlom/PickSmart)
 
 I am also interested in exploring world models to tackle reasoning challenges, specifically the cognitive function in current models.
 
