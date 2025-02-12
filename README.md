@@ -32,7 +32,7 @@ My research interest focuses on enhancing cognitive function in the current mach
 I have developed a research proposal outlining my idea. Please feel free to contact me at phrugsa.lim@gmail.com for a discussion.
 
 ## Others
-A collection of algorithms implemented by Java ([algoj](https://github.com/phrugsa-limbunlom/algoj)), Scala ([algos](https://github.com/phrugsa-limbunlom/algos)), and Python ([algopy](https://github.com/phrugsa-limbunlom/algopy)) for practicing.
+A collection of algorithms implemented by Java ([algoj](https://github.com/phrugsa-limbunlom/algoj)), Scala ([algos](https://github.com/phrugsa-limbunlom/algos)), and Python ([algopy](https://github.com/phrugsa-limbunlom/algopy)) for practicing. [![LeetCode user phrugsa-lim](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fphrugsa-lim&logo=leetcode&logoColor=yellow)](https://leetcode.com/phrugsa-lim/)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phrugsa-limbunlom&theme=solarized_dark" alt="Profile Summary">
