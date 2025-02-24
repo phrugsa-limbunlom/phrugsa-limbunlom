@@ -19,7 +19,7 @@ I am also interested in exploring world models to tackle reasoning challenges, s
 
 💻 Software engineer (backend) implements microservices and API integration for robust and scalable software. 
 
-🔍 Quality analyst conducts manual and automated testing to meet high-quality standard software. ([Cypress](https://github.com/phrugsa-limbunlom/test-auto-web), [Appium](https://github.com/phrugsa-limbunlom/test-auto-mobile))
+🔍 Quality analyst conducts manual and automated testing for high-quality software standards. ([Cypress](https://github.com/phrugsa-limbunlom/test-auto-web), [Appium](https://github.com/phrugsa-limbunlom/test-auto-mobile))
 
 🤝 Having experience working with global IT consulting firms and have been involved in projects utilizing Agile methodology.
 
@@ -27,9 +27,9 @@ I am also interested in exploring world models to tackle reasoning challenges, s
 I am passionate about developing AI-driven software solutions to address business challenges and drive growth. My primary focus is creating software that seamlessly integrates Generative and Agentic AI to optimize and enhance business processes. I also aim to develop user-friendly software that can solve real-world challenges and make it more convenient for users without a technical background. 
 
 ## Research Interest
-My research interest focuses on enhancing cognitive function in the current machine intelligence system. I am interested in researching approaches to tackle reasoning challenges in current LLM and multimodal, especially vision-related tasks. I am currently studying the feasibility of leveraging Joint-embedding predictive architecture (JEPA) and energy-based models to address such problems. I aim to build an intelligence system that requires a small training sample for learning new situations. 
+My research interests focus on enhancing cognitive function in the current machine intelligence system. I am also interested in researching approaches to tackle reasoning challenges in current LLM and multimodal systems, especially vision-related tasks. I am currently studying the feasibility of leveraging Joint-embedding predictive architecture (JEPA) and energy-based models to address such problems. I aim to build an intelligence system that requires a small training sample to learn new situations. 
 
-I have developed a research proposal outlining my idea. Please feel free to contact me at phrugsa.lim@gmail.com for a discussion.
+I have developed a research proposal outlining my idea. Please feel free to contact me at phrugsa.lim@gmail.com to discuss it.
 
 ## Others
 A collection of algorithms implemented by Java ([algoj](https://github.com/phrugsa-limbunlom/algoj)), Scala ([algos](https://github.com/phrugsa-limbunlom/algos)), and Python ([algopy](https://github.com/phrugsa-limbunlom/algopy)) for practicing. [![LeetCode user phrugsa-lim](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fphrugsa-lim&logo=leetcode&logoColor=yellow)](https://leetcode.com/phrugsa-lim/)
