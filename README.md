@@ -1,11 +1,11 @@
 ## About Me
 ✨ I have a strong passion for pioneering advancements in AI. I have hands-on experience implementing machine learning and deep learning models to solve regression and classification problems, including 
 
-- financial forecasting [(RNN-based GANs)](https://github.com/phrugsa-limbunlom/SeGAN) • satellite image classification [(cnn)](https://github.com/phrugsa-limbunlom/densenet201-classifier) • X-ray image localization [(GradCAM)](https://github.com/phrugsa-limbunlom/GradCAM/tree/master) • 2D-landing control system [(ann)](https://github.com/phrugsa-limbunlom/multi-regressor-mlp) • biochemical production [(rf,xgboost,svm)](https://github.com/phrugsa-limbunlom/mimo-regressor)
+- financial forecasting [(RNN-based GANs)](https://github.com/phrugsa-limbunlom/SeGAN) • satellite image classification [(CNNs)](https://github.com/phrugsa-limbunlom/densenet201-classifier) • X-ray image localization [(GradCAM)](https://github.com/phrugsa-limbunlom/GradCAM/tree/master) • 2D-landing control system [(ANNs)](https://github.com/phrugsa-limbunlom/multi-regressor-mlp) • biochemical production [(rf,xgboost,svm)](https://github.com/phrugsa-limbunlom/mimo-regressor)
 
 I am now eager to design sophisticated AI workflows for generative and automation tasks using Generative AI and AI agents. The example projects include:
 
-- machine translation [(transformer)](https://github.com/phrugsa-limbunlom/transformer-machine-translation) • AI-powered shopping assistant [(PickSmart)](https://github.com/phrugsa-limbunlom/PickSmart)
+- machine translation [(Transformer)](https://github.com/phrugsa-limbunlom/transformer-machine-translation) • AI-powered shopping assistant [(PickSmart)](https://github.com/phrugsa-limbunlom/PickSmart)
 
 I am also interested in exploring world models to tackle reasoning challenges, specifically the cognitive function in current models.
 
