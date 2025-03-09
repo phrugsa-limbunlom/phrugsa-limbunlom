@@ -37,6 +37,10 @@ My research interests focus on enhancing cognitive function in the current machi
 
 I have developed a research proposal outlining my idea. Please feel free to contact me at phrugsa.lim@gmail.com to discuss it.
 
+## Certificates
+<a href="https://www.credly.com/badges/3c9d4fda-e1e2-4bf1-b0a5-1fcf91ca3d71"><img src="https://github.com/user-attachments/assets/a830e95f-8e6d-41f1-ba82-571a0d5ab6bf" width="150" height="150"></a>
+<a href="https://learn.microsoft.com/en-us/users/phrugsalimbunlom-0283/credentials/certification/azure-ai-engineer"><img src="https://github.com/user-attachments/assets/9bf9f941-f40a-467a-8543-04bdc8a940a7" width="150" height="150"></a>
+
 ## Others
 A collection of algorithms implemented by Java ([algoj](https://github.com/phrugsa-limbunlom/algoj)), Scala ([algos](https://github.com/phrugsa-limbunlom/algos)), and Python ([algopy](https://github.com/phrugsa-limbunlom/algopy)) for practicing. [![LeetCode user phrugsa-lim](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fphrugsa-lim&logo=leetcode&logoColor=yellow)](https://leetcode.com/phrugsa-lim/)
 
