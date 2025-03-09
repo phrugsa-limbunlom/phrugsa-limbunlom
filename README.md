@@ -39,6 +39,7 @@ I have developed a research proposal outlining my idea. Please feel free to cont
 
 ## Certificates
 <a href="https://www.credly.com/badges/3c9d4fda-e1e2-4bf1-b0a5-1fcf91ca3d71"><img src="https://github.com/user-attachments/assets/a830e95f-8e6d-41f1-ba82-571a0d5ab6bf" width="150" height="150"></a>
+<a href="https://www.credly.com/badges/3c9d4fda-e1e2-4bf1-b0a5-1fcf91ca3d71"><img src="https://github.com/user-attachments/assets/7d2de5b0-1299-4d81-bcb4-5ac602a7da07" width="150" height="150"></a>
 <a href="https://learn.microsoft.com/en-us/users/phrugsalimbunlom-0283/credentials/certification/azure-ai-engineer"><img src="https://github.com/user-attachments/assets/9bf9f941-f40a-467a-8543-04bdc8a940a7" width="150" height="150"></a>
 
 ## Others
