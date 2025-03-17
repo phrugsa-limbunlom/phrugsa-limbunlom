@@ -39,10 +39,10 @@ I am passionate about developing AI-driven software solutions to address busines
 My research interests focus on enhancing cognitive function in the current machine intelligence system. I am also interested in researching approaches to tackle reasoning challenges in current LLM and multimodal systems, especially vision-related tasks. I am currently studying the feasibility of leveraging Joint-embedding predictive architecture (JEPA) and energy-based models to address such problems. I aim to build an intelligence system that requires a small training sample to learn new situations. 
 
 I have developed a research proposal outlining my idea. Please feel free to contact me at phrugsa.lim@gmail.com to discuss it.
-<br>
+<!--<br>
 <div align = "center">
-    <img src="https://github.com/user-attachments/assets/7e920aad-c736-4ee3-9c29-665ee7128df7" width="750" height="450">
-</div>
+    <img src="https://github.com/user-attachments/assets/7e920aad-c736-4ee3-9c29-665ee7128df7">
+</div>-->
 
 ## Certificates
 <div align = "center">
