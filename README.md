@@ -39,14 +39,17 @@ I am passionate about developing AI-driven software solutions to address busines
 My research interests focus on enhancing cognitive function in the current machine intelligence system. I am also interested in researching approaches to tackle reasoning challenges in current LLM and multimodal systems, especially vision-related tasks. I am currently studying the feasibility of leveraging Joint-embedding predictive architecture (JEPA) and energy-based models to address such problems. I aim to build an intelligence system that requires a small training sample to learn new situations. 
 
 I have developed a research proposal outlining my idea. Please feel free to contact me at phrugsa.lim@gmail.com to discuss it.
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/7e920aad-c736-4ee3-9c29-665ee7128df7">
+<br>
+<div align = "center">
+    <img src="https://github.com/user-attachments/assets/7e920aad-c736-4ee3-9c29-665ee7128df7" width="800" height="450">
 </div>
 
 ## Certificates
-<a href="https://www.credly.com/badges/3c9d4fda-e1e2-4bf1-b0a5-1fcf91ca3d71"><img src="https://github.com/user-attachments/assets/a830e95f-8e6d-41f1-ba82-571a0d5ab6bf" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/aec100a4-3112-4f1b-9616-0eac251071d6"><img src="https://github.com/user-attachments/assets/7d2de5b0-1299-4d81-bcb4-5ac602a7da07" width="100" height="100"></a>
-<a href="https://learn.microsoft.com/en-us/users/phrugsalimbunlom-0283/credentials/4e89a1228e27e99d"><img src="https://github.com/user-attachments/assets/9bf9f941-f40a-467a-8543-04bdc8a940a7" width="100" height="100"></a>
+<div align = "center">
+  <a href="https://www.credly.com/badges/3c9d4fda-e1e2-4bf1-b0a5-1fcf91ca3d71"><img src="https://github.com/user-attachments/assets/a830e95f-8e6d-41f1-ba82-571a0d5ab6bf" width="100" height="100"></a>
+  <a href="https://www.credly.com/badges/aec100a4-3112-4f1b-9616-0eac251071d6"><img src="https://github.com/user-attachments/assets/7d2de5b0-1299-4d81-bcb4-5ac602a7da07" width="100" height="100"></a>
+  <a href="https://learn.microsoft.com/en-us/users/phrugsalimbunlom-0283/credentials/4e89a1228e27e99d"><img src="https://github.com/user-attachments/assets/9bf9f941-f40a-467a-8543-04bdc8a940a7" width="100" height="100"></a>
+</div>
 
 ## Others
 A collection of algorithms implemented by Java ([algoj](https://github.com/phrugsa-limbunlom/algoj)), Scala ([algos](https://github.com/phrugsa-limbunlom/algos)), and Python ([algopy](https://github.com/phrugsa-limbunlom/algopy)) for practicing. [![LeetCode user phrugsa-lim](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fphrugsa-lim&logo=leetcode&logoColor=yellow)](https://leetcode.com/phrugsa-lim/)
