@@ -41,7 +41,7 @@ My research interests focus on enhancing cognitive function in the current machi
 I have developed a research proposal outlining my idea. Please feel free to contact me at phrugsa.lim@gmail.com to discuss it.
 <br>
 <div align = "center">
-    <img src="https://github.com/user-attachments/assets/7e920aad-c736-4ee3-9c29-665ee7128df7" width="800" height="450">
+    <img src="https://github.com/user-attachments/assets/7e920aad-c736-4ee3-9c29-665ee7128df7" width="750" height="450">
 </div>
 
 ## Certificates
