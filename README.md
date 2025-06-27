@@ -14,6 +14,8 @@ I am now eager to design sophisticated AI workflows for generative and automatio
 |Project|Link|
 |:-------:|:----:|
 |AI-powered shopping assistant|[PickSmart](https://github.com/phrugsa-limbunlom/PickSmart)|
+|VLM model inference on local devices|[vlm-ollama](https://github.com/phrugsa-limbunlom/vlm-ollama)|
+|LLM deployment on AWS Sagemaker|[sagemaker-llm-deployment](https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment)
 |Machine Translation|[Transformer](https://github.com/phrugsa-limbunlom/transformer-machine-translation)|
 
 I am also interested in exploring world models to tackle reasoning challenges, specifically the cognitive function in current models.
