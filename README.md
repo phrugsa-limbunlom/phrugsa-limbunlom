@@ -15,6 +15,7 @@ I am now eager to design sophisticated AI workflows for generative and automatio
 |:-------:|:----:|
 |AI-powered shopping assistant|[PickSmart](https://github.com/phrugsa-limbunlom/PickSmart)|
 |VLM model inference on local devices|[vlm-ollama](https://github.com/phrugsa-limbunlom/vlm-ollama)|
+|Document summarization|[rag-arxiv-summarization](https://github.com/phrugsa-limbunlom/rag-arxiv-summarization)
 |LLM deployment on AWS Sagemaker|[sagemaker-llm-deployment](https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment)
 |Machine Translation|[Transformer](https://github.com/phrugsa-limbunlom/transformer-machine-translation)|
 
