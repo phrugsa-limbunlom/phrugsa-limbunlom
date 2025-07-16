@@ -16,7 +16,7 @@ I am now eager to design sophisticated AI workflows for generative and automatio
 |AI Assistant with Agentic Workflow|[PickSmart](https://github.com/phrugsa-limbunlom/PickSmart)|
 |Multi-Modal Vision AI Agent System|[DressMe.AI](https://github.com/phrugsa-limbunlom/DressMe.AI)|
 |VLM model inference on local devices|[vlm-ollama](https://github.com/phrugsa-limbunlom/vlm-ollama)|
-|RAG-Powered Document System for Design Agent|[structural-rag-agent](https://github.com/phrugsa-limbunlom/rag-arxiv-summarization)
+|RAG-Powered Document System for Structural Design Agent|[structural-rag-agent](https://github.com/phrugsa-limbunlom/rag-arxiv-summarization)
 |LLM deployment on AWS Sagemaker|[sagemaker-llm-deployment](https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment)
 |Machine Translation|[Transformer](https://github.com/phrugsa-limbunlom/transformer-machine-translation)|
 
