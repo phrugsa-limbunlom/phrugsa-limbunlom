@@ -15,9 +15,9 @@ I am now eager to design sophisticated AI workflows for generative and automatio
 |:-------:|:----:|
 |AI Assistant with Agentic Workflow|[PickSmart](https://github.com/phrugsa-limbunlom/PickSmart)|
 |Multi-Modal Vision AI Agent System|[DressMe.AI](https://github.com/phrugsa-limbunlom/DressMe.AI)|
-|VLM model inference on local devices|[vlm-ollama](https://github.com/phrugsa-limbunlom/vlm-ollama)|
-|AI Research Assistant|[structural-rag-agent](https://github.com/phrugsa-limbunlom/rag-arxiv-summarization)
-|LLM deployment on AWS Sagemaker|[sagemaker-llm-deployment](https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment)
+|VLM Inference on Local Devices|[vlm-ollama](https://github.com/phrugsa-limbunlom/vlm-ollama)|
+|AI Research Assistant with Tools calling|[structural-rag-agent](https://github.com/phrugsa-limbunlom/rag-arxiv-summarization)
+|LLM Deployment on AWS Sagemaker|[sagemaker-llm-deployment](https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment)
 |Machine Translation|[Transformer](https://github.com/phrugsa-limbunlom/transformer-machine-translation)|
 
 I am also interested in exploring world models to tackle reasoning challenges, specifically the cognitive function in current models.
