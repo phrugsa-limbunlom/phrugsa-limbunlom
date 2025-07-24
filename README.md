@@ -1,4 +1,4 @@
-<h1 align="center">PHRUGSA LIMBUNLOM</h1>
+<h1 align="center">PHRUGSA LIMBUNLOM✨</h1>
 
 I'm passionate about pioneering advancements in AI, with extensive experience in machine learning, deep learning, and generative AI systems. My journey spans from implementing traditional ML models to designing sophisticated AI workflows for automation and generative tasks.
 
