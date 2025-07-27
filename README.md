@@ -78,8 +78,6 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 ---
 
 ## 🔍 Research Interests
-
-- **Cognitive AI Systems**: Enhancing reasoning capabilities in machine intelligence through advanced neural architectures and symbolic integration
 - **Vision-Language Models**: Developing multimodal AI systems that seamlessly integrate visual perception with natural language understanding for complex reasoning tasks
 - **Joint-Embedding Predictive Architecture (JEPA)**: Exploring self-supervised learning frameworks that learn world models through predictive coding in abstract representation spaces
 - **Energy-based Models**: Designing probabilistic models that capture data distributions through energy functions for more efficient and robust learning
