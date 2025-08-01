@@ -9,11 +9,11 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 ### 🤖 Generative AI & Agent Systems
 | Project | Description | Tech Stack |
 |:---------:|:-------------:|:------------:|
-| [PickSmart](https://github.com/phrugsa-limbunlom/PickSmart) | AI Assistant with Agentic Workflow | Multi-Agent Systems |
+| [PickSmart](https://github.com/phrugsa-limbunlom/PickSmart) | AI Assistant with Agentic Workflow | LangChain, LangGraph |
 | [DressMe.AI](https://github.com/phrugsa-limbunlom/DressMe.AI) | Multimodal Agent with Image Generation | VLMs, Diffusion Models, Feedback Mechanism|
-| [SEAD-agent](https://github.com/phrugsa-limbunlom/SEAD-agent) | AI Research Assistant with Tool Calling | LLMs, Function Calling |
+| [SEAD-agent](https://github.com/phrugsa-limbunlom/SEAD-agent) | AI Research Assistant with Tool Calling | VLMs, Function Calling |
 | [VLM-Ollama](https://github.com/phrugsa-limbunlom/vlm-ollama) | VLM Inference on Local Devices | Ollama, Local Deployment |
-| [SageMaker LLM Deployment](https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment) | LLM Deployment on AWS | AWS SageMaker, MLOps |
+| [SageMaker LLM Deployment](https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment) | LLM Deployment on AWS | AWS SageMaker, LLMOps |
 
 ### 🧠 Core AI/ML Projects  
 | Project | Description | Tech Stack |
