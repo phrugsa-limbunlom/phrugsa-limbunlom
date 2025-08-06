@@ -15,6 +15,13 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 | [VLM-Ollama](https://github.com/phrugsa-limbunlom/vlm-ollama) | VLM Inference on Local Devices | Ollama, Local Deployment |
 | [SageMaker LLM Deployment](https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment) | LLM Deployment on AWS | AWS SageMaker, LLMOps |
 
+### 🔬 Models Exploration
+| Project | Description | Tech Stack |
+|:---------:|:-------------:|:------------:|
+| [VLM-LoRA](https://github.com/phrugsa-limbunlom/vlm-lora) | Fine-tuning Vision-Language Models | LoRA, Parameter-Efficient Training |
+| [Transformer Machine Translation](https://github.com/phrugsa-limbunlom/transformer-machine-translation) | Neural Machine Translation from Scratch | Transformer, Attention Mechanisms |
+| [Post-Training Quantization](https://github.com/phrugsa-limbunlom/llm-ptq) | Quantize LLM from full precision to 8 bits | Symmetric and Asymmetric Quantization |
+
 ### 🧠 Core AI/ML Projects  
 | Project | Description | Tech Stack |
 |:---------:|:-------------:|:------------:|
@@ -23,13 +30,6 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 | [GradCAM](https://github.com/phrugsa-limbunlom/GradCAM/tree/master) | X-ray Image Localization | Computer Vision, Explainable AI |
 | [Multi-Regressor MLP](https://github.com/phrugsa-limbunlom/multi-regressor-mlp) | 2D Landing Control System | Neural Networks, Control Systems |
 | [MIMO Regressor](https://github.com/phrugsa-limbunlom/mimo-regressor) | Biochemical Production Optimization | Random Forest, XGBoost, SVM |
-
-### 🔬 Model Exploration
-| Project | Description | Tech Stack |
-|:---------:|:-------------:|:------------:|
-| [VLM-LoRA](https://github.com/phrugsa-limbunlom/vlm-lora) | Fine-tuning Vision-Language Models | LoRA, Parameter-Efficient Training |
-| [Transformer Machine Translation](https://github.com/phrugsa-limbunlom/transformer-machine-translation) | Neural Machine Translation from Scratch | Transformer, Attention Mechanisms |
-| [Post-Training Quantization](https://github.com/phrugsa-limbunlom/llm-ptq) | Quantize LLM from full precision to 8 bits | Symmetric and Asymmetric Quantization |
 
 ---
 
