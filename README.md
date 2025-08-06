@@ -29,6 +29,7 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 |:---------:|:-------------:|:------------:|
 | [VLM-LoRA](https://github.com/phrugsa-limbunlom/vlm-lora) | Fine-tuning Vision-Language Models | LoRA, Parameter-Efficient Training |
 | [Transformer Machine Translation](https://github.com/phrugsa-limbunlom/transformer-machine-translation) | Neural Machine Translation from Scratch | Transformer, Attention Mechanisms |
+| [Post-Training Quantization](https://github.com/phrugsa-limbunlom/llm-ptq) | Quantize LLM from full precision to 8 bits | Symmetric and Asymmetric Quantization |
 
 ---
 
