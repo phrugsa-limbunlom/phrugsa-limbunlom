@@ -11,7 +11,7 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 |:---------:|:-------------:|:------------:|
 | [PickSmart](https://github.com/phrugsa-limbunlom/PickSmart) | AI Assistant with Agentic Workflow | LangChain, LangGraph |
 | [DressMe.AI](https://github.com/phrugsa-limbunlom/DressMe.AI) | Multimodal Agent with Image Generation | VLMs, Diffusion Models, Feedback Mechanism|
-| [SEAD-agent](https://github.com/phrugsa-limbunlom/SEAD-agent) | AI Research Assistant with Tool Calling | VLMs, Function Calling |
+| [SEAD-agent](https://github.com/phrugsa-limbunlom/SEAD-agent) | AI Research Assistant with Tool Calling | VLMs, Function Calling, RAG |
 | [vlm-ollama](https://github.com/phrugsa-limbunlom/vlm-ollama)|VLMs Inference on Local Deployment| VLMs, Ollama|
 | [SageMaker LLM Deployment](https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment) | LLM Deployment on AWS | AWS SageMaker, LLMOps |
 
