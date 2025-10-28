@@ -16,7 +16,7 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 | [SageMaker LLM Deployment](https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment) | LLM Deployment on AWS | AWS SageMaker, LLMOps |
 
 ### 🔬 Models Exploration
-| Project | Description | Tech Stack |
+| Project | Description | Model/Approach |
 |:---------:|:-------------:|:------------:|
 | [VLM GRPO](https://github.com/phrugsa-limbunlom/vlm-grpo) | Post-training Vision-Language Models | GRPO |
 | [VLM LoRA](https://github.com/phrugsa-limbunlom/vlm-lora) | Fine-tuning Vision-Language Models | LoRA, Parameter-Efficient Training |
@@ -24,7 +24,7 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 | [Post-Training Quantization](https://github.com/phrugsa-limbunlom/llm-ptq) | Post-Training 8-Bit Quantization for LLMs| Symmetric and Asymmetric Quantization, BitsAndBytes|
 
 ### 🧠 Core AI/ML Projects  
-| Project | Description | Tech Stack |
+| Project | Description | Model/Approach |
 |:---------:|:-------------:|:------------:|
 | [SeGAN](https://github.com/phrugsa-limbunlom/SeGAN) | Financial Forecasting using GANs | RNN, GANs, Time Series |
 | [DenseNet201 Classifier](https://github.com/phrugsa-limbunlom/densenet201-classifier) | Satellite Image Classification | CNN, Transfer Learning |
