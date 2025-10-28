@@ -18,7 +18,8 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 ### 🔬 Models Exploration
 | Project | Description | Tech Stack |
 |:---------:|:-------------:|:------------:|
-| [VLM-LoRA](https://github.com/phrugsa-limbunlom/vlm-lora) | Fine-tuning Vision-Language Models | LoRA, Parameter-Efficient Training |
+| [VLM GRPO](https://github.com/phrugsa-limbunlom/vlm-grpo) | Post-training Vision-Language Models | GRPO |
+| [VLM LoRA](https://github.com/phrugsa-limbunlom/vlm-lora) | Fine-tuning Vision-Language Models | LoRA, Parameter-Efficient Training |
 | [Transformer Machine Translation](https://github.com/phrugsa-limbunlom/transformer-machine-translation) | Neural Machine Translation from Scratch | Transformer, Attention Mechanisms |
 | [Post-Training Quantization](https://github.com/phrugsa-limbunlom/llm-ptq) | Post-Training 8-Bit Quantization for LLMs| Symmetric and Asymmetric Quantization, BitsAndBytes|
 
