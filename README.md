@@ -74,10 +74,6 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### Testing & Development
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
 ---
 
 ## Research Interests
@@ -90,10 +86,6 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 ---
 
 ## Algorithm Practice
-
-[![Java Algorithms](https://img.shields.io/badge/Java-AlgoJ-orange?style=flat-square)](https://github.com/phrugsa-limbunlom/algoj)
-[![Scala Algorithms](https://img.shields.io/badge/Scala-Algos-red?style=flat-square)](https://github.com/phrugsa-limbunlom/algos)
-[![Python Algorithms](https://img.shields.io/badge/Python-AlgoPy-blue?style=flat-square)](https://github.com/phrugsa-limbunlom/algopy)
 
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fphrugsa-lim&logo=leetcode&logoColor=yellow)](https://leetcode.com/phrugsa-lim/)
 
