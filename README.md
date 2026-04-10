@@ -87,7 +87,7 @@ Currently, I'm deepening my expertise in generative modelling — exploring diff
 </details>
 
 <details>
-  <summary>🧠 Core AI/ML Projects</summary>
+  <summary>🧠 Core ML/DL Projects</summary>
   <table>
     <tr>
       <th align="center">Project</th>
