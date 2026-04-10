@@ -1,39 +1,126 @@
 <h1 align="center">PHRUGSA LIMBUNLOM✨</h1>
 
-I'm passionate about pioneering advancements in AI, with extensive experience in machine learning, deep learning, and generative AI systems. My journey spans from implementing traditional ML models to designing sophisticated AI workflows for automation and generative tasks.
+I'm passionate about pioneering advancements in AI, with extensive experience in machine learning, deep learning, and generative AI systems. My journey spans from implementing traditional ML models to designing sophisticated AI workflows for automation and generative tasks. <br> <br>
+Currently, I'm deepening my expertise in generative modelling — exploring diffusion models, flow matching, energy-based models, and generative world models — driven by a strong interest in understanding how machines can learn and synthesize complex data distributions.
+
+---
+## Research Interests
+- *Generative Modelling*: Designing probabilistic models that capture complex data distributions through energy functions, diffusion processes, and flow matching — with a focus on scalable training and high-fidelity synthesis across continuous data modalities
+- *Multimodal Models*: Developing multimodal models to integrate visual perception, natural language understanding, and other modalities for complex reasoning tasks
+- *Joint-Embedding Predictive Architecture (JEPA)*: Exploring self-supervised learning frameworks that learn world models through predictive coding in abstract representation spaces
+- *Few-Shot Learning*: Creating adaptive systems that can generalize from minimal training examples using meta-learning and transfer learning techniques
+- *AI Agents & Automation*: Building autonomous intelligent systems capable of complex decision-making and real-world problem solving through reinforcement learning and planning algorithms
 
 ---
 
 ## Featured Projects
+<details>
+  <summary>🤖 Generative AI &amp; Agent Systems</summary>
+  <table>
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">Description</th>
+      <th align="center">Tech Stack</th>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/PickSmart">PickSmart</a></td>
+      <td align="center">AI Assistant with Agentic Workflow</td>
+      <td align="center">LangChain, LangGraph</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/DressMe.AI">DressMe.AI</a></td>
+      <td align="center">Multimodal Agent with Image Generation</td>
+      <td align="center">VLMs, Diffusion Models, Feedback Mechanism</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/ai-teacher">ai-teacher</a></td>
+      <td align="center">Real-time voice based AI avatar</td>
+      <td align="center">Anam, ElevenLab</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/SEAD-agent">SEAD-agent</a></td>
+      <td align="center">AI Research Assistant with Tool Calling</td>
+      <td align="center">VLMs, Function Calling, RAG</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/vlm-ollama">vlm-ollama</a></td>
+      <td align="center">VLMs Inference on Local Deployment</td>
+      <td align="center">VLMs, Ollama</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment">SageMaker LLM Deployment</a></td>
+      <td align="center">LLM Deployment on AWS</td>
+      <td align="center">AWS SageMaker, LLMOps</td>
+    </tr>
+  </table>
+</details>
 
-### 🤖 Generative AI & Agent Systems
-| Project | Description | Tech Stack |
-|:---------:|:-------------:|:------------:|
-| [PickSmart](https://github.com/phrugsa-limbunlom/PickSmart) | AI Assistant with Agentic Workflow | LangChain, LangGraph |
-| [DressMe.AI](https://github.com/phrugsa-limbunlom/DressMe.AI) | Multimodal Agent with Image Generation | VLMs, Diffusion Models, Feedback Mechanism|
-| [ai-teacher](https://github.com/phrugsa-limbunlom/ai-teacher) | real-time voice based AI avatar | Anam, ElevenLab |
-| [SEAD-agent](https://github.com/phrugsa-limbunlom/SEAD-agent) | AI Research Assistant with Tool Calling | VLMs, Function Calling, RAG |
-| [vlm-ollama](https://github.com/phrugsa-limbunlom/vlm-ollama)|VLMs Inference on Local Deployment| VLMs, Ollama|
-| [SageMaker LLM Deployment](https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment) | LLM Deployment on AWS | AWS SageMaker, LLMOps |
+<details>
+  <summary>🔬 Models Exploration</summary>
+  <table>
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">Description</th>
+      <th align="center">Model/Approach</th>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/vlm-grpo">VLM GRPO</a></td>
+      <td align="center">Post-training Vision-Language Models</td>
+      <td align="center">GRPO</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/vlm-lora">VLM LoRA</a></td>
+      <td align="center">Fine-tuning Vision-Language Models</td>
+      <td align="center">LoRA, Parameter-Efficient Training</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/transformer-machine-translation">Transformer Machine Translation</a></td>
+      <td align="center">Neural Machine Translation from Scratch</td>
+      <td align="center">Transformer, Attention Mechanisms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/llm-ptq">Post-Training Quantization</a></td>
+      <td align="center">Post-Training 8-Bit Quantization for LLMs</td>
+      <td align="center">Symmetric and Asymmetric Quantization, BitsAndBytes</td>
+    </tr>
+  </table>
+</details>
 
-### 🔬 Models Exploration
-| Project | Description | Model/Approach |
-|:---------:|:-------------:|:------------:|
-| [VLM GRPO](https://github.com/phrugsa-limbunlom/vlm-grpo) | Post-training Vision-Language Models | GRPO |
-| [VLM LoRA](https://github.com/phrugsa-limbunlom/vlm-lora) | Fine-tuning Vision-Language Models | LoRA, Parameter-Efficient Training |
-| [Transformer Machine Translation](https://github.com/phrugsa-limbunlom/transformer-machine-translation) | Neural Machine Translation from Scratch | Transformer, Attention Mechanisms |
-| [Post-Training Quantization](https://github.com/phrugsa-limbunlom/llm-ptq) | Post-Training 8-Bit Quantization for LLMs| Symmetric and Asymmetric Quantization, BitsAndBytes|
-
-### 🧠 Core AI/ML Projects  
-| Project | Description | Model/Approach |
-|:---------:|:-------------:|:------------:|
-| [SeGAN](https://github.com/phrugsa-limbunlom/SeGAN) | Financial Forecasting using GANs | RNN, GANs, Time Series |
-| [DenseNet201 Classifier](https://github.com/phrugsa-limbunlom/densenet201-classifier) | Satellite Image Classification | CNN, Transfer Learning |
-| [GradCAM](https://github.com/phrugsa-limbunlom/GradCAM/tree/master) | X-ray Image Localization | Computer Vision, Explainable AI |
-| [Multi-Regressor MLP](https://github.com/phrugsa-limbunlom/multi-regressor-mlp) | 2D Landing Control System | Neural Networks, Control Systems |
-| [MIMO Regressor](https://github.com/phrugsa-limbunlom/mimo-regressor) | Biochemical Production Optimization | Random Forest, XGBoost, SVM |
-
----
+<details>
+  <summary>🧠 Core AI/ML Projects</summary>
+  <table>
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">Description</th>
+      <th align="center">Model/Approach</th>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/SeGAN">SeGAN</a></td>
+      <td align="center">Financial Forecasting using GANs</td>
+      <td align="center">RNN, GANs, Time Series</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/densenet201-classifier">DenseNet201 Classifier</a></td>
+      <td align="center">Satellite Image Classification</td>
+      <td align="center">CNN, Transfer Learning</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/GradCAM/tree/master">GradCAM</a></td>
+      <td align="center">X-ray Image Localization</td>
+      <td align="center">Computer Vision, Explainable AI</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/multi-regressor-mlp">Multi-Regressor MLP</a></td>
+      <td align="center">2D Landing Control System</td>
+      <td align="center">Neural Networks, Control Systems</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/mimo-regressor">MIMO Regressor</a></td>
+      <td align="center">Biochemical Production Optimization</td>
+      <td align="center">Random Forest, XGBoost, SVM</td>
+    </tr>
+  </table>
+</details>
 
 ## Education & Certifications
 
@@ -73,15 +160,6 @@ I'm passionate about pioneering advancements in AI, with extensive experience in
 ![Azure](https://img.shields.io/badge/-Azure-232F3E?style=flat-square&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
----
-
-## Research Interests
-- **Vision-Language Models**: Developing multimodal models to integrate visual perception with natural language understanding for complex reasoning tasks
-- **Joint-Embedding Predictive Architecture (JEPA)**: Exploring self-supervised learning frameworks that learn world models through predictive coding in abstract representation spaces
-- **Energy-based Models**: Designing probabilistic models that capture data distributions through energy functions
-- **Few-Shot Learning**: Creating adaptive systems that can generalize from minimal training examples using meta-learning and transfer learning techniques
-- **AI Agents & Automation**: Building autonomous intelligent systems capable of complex decision-making and real-world problem solving through reinforcement learning and planning algorithms
 
 ---
 
