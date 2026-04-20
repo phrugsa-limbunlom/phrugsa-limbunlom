@@ -63,6 +63,11 @@ Currently, I'm deepening my expertise in generative modelling — exploring diff
       <th align="center">Description</th>
       <th align="center">Model/Approach</th>
     </tr>
+     <tr>
+      <td align="center"><a href="https://github.com/phrugsa-limbunlom/generative-modelling">Generative Modelling</a></td>
+      <td align="center">Generative Modelling</td>
+      <td align="center">Diffusion, Flow Matching, Energy-based Models</td>
+    </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/vlm-grpo">VLM GRPO</a></td>
       <td align="center">Post-training Vision-Language Models</td>
