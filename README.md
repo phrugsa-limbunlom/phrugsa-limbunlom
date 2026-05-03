@@ -135,17 +135,25 @@ Currently, I'm deepening my expertise in generative modelling — exploring diff
 **Bachelor of Science in Computer Science**  
 *Mahidol University*
 
-<div align="center">
-  <a href="https://www.credly.com/badges/3c9d4fda-e1e2-4bf1-b0a5-1fcf91ca3d71">
-    <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/072b5ef3-3b91-454a-8fbd-9c3478316a9d" />
-  </a>
-  <a href="https://www.credly.com/badges/aec100a4-3112-4f1b-9616-0eac251071d6">
-    <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/23074a39-c744-428b-8eee-e007849e9114" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/users/phrugsalimbunlom-0283/credentials/4e89a1228e27e99d">
-    <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/145e2ed2-eafe-4cc3-9d54-d0a492e70619" />
-  </a>
-</div>
+<table align="center" border="0" cellspacing="10">
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/3c9d4fda-e1e2-4bf1-b0a5-1fcf91ca3d71">
+        <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/072b5ef3-3b91-454a-8fbd-9c3478316a9d" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/aec100a4-3112-4f1b-9616-0eac251071d6">
+        <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/23074a39-c744-428b-8eee-e007849e9114" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/users/phrugsalimbunlom-0283/credentials/4e89a1228e27e99d">
+        <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/145e2ed2-eafe-4cc3-9d54-d0a492e70619" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
