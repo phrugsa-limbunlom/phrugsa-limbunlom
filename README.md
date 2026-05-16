@@ -1,5 +1,10 @@
-<h1 align="center">PHRUGSA LIMBUNLOM✨</h1>
+<h1 align="center">Phrugsa Limbunlom (Gift) ✨</h1>
+ 
+<p align="center">
+AI/ML Engineer · Technical Writer · Open-Source Contributor
+</p>
 
+---
 I'm passionate about pioneering advancements in AI, with extensive experience in machine learning, deep learning, and generative AI systems. My journey spans from implementing traditional ML models to designing sophisticated AI workflows for automation and generative tasks. <br> <br>
 Currently, I'm deepening my expertise in generative modelling — exploring diffusion models, flow matching, energy-based models, and generative world models — driven by a strong interest in understanding how machines can learn and synthesize complex data distributions.
 
@@ -12,10 +17,17 @@ Currently, I'm deepening my expertise in generative modelling — exploring diff
 - *AI Agents & Automation*: Building autonomous intelligent systems capable of complex decision-making and real-world problem solving through reinforcement learning and planning algorithms
 
 ---
+## Open-Source Contribution
+| Project | Description | Stat |
+|---|---|---|
+| [TorchEBM](https://github.com/soran-ghaderi/torchebm)| PyTorch library for diffusion, flow-matching, and energy-based models, covering samplers and training utilities | 13K Downloads (As of May 2026)|
+---
 
 ## Featured Projects
+ 
 <details>
-  <summary>🤖 Generative AI &amp; Agent Systems</summary>
+  <summary>🤖 Generative AI and Agent Systems</summary>
+  <br>
   <table>
     <tr>
       <th align="center">Project</th>
@@ -24,108 +36,110 @@ Currently, I'm deepening my expertise in generative modelling — exploring diff
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/PickSmart">PickSmart</a></td>
-      <td align="center">AI Assistant with Agentic Workflow</td>
-      <td align="center">LangChain, LangGraph</td>
+      <td align="center">Multi-agent AI assistant with agentic workflow</td>
+      <td align="center">LangChain, LangGraph, MongoDB, Groq, FastAPI, Docker</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/DressMe.AI">DressMe.AI</a></td>
-      <td align="center">Multimodal Agent with Image Generation</td>
+      <td align="center">Multimodal agent with image generation and feedback loop</td>
       <td align="center">VLMs, Diffusion Models, Feedback Mechanism</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/ai-teacher">ai-teacher</a></td>
-      <td align="center">Real-time voice based AI avatar</td>
-      <td align="center">Anam, ElevenLab</td>
+      <td align="center">Real-time voice-based AI avatar</td>
+      <td align="center">Anam, ElevenLabs</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/SEAD-agent">SEAD-agent</a></td>
-      <td align="center">AI Research Assistant with Tool Calling</td>
+      <td align="center">AI research assistant with tool calling and RAG</td>
       <td align="center">VLMs, Function Calling, RAG</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/vlm-ollama">vlm-ollama</a></td>
-      <td align="center">VLMs Inference on Local Deployment</td>
+      <td align="center">VLM inference on local deployment</td>
       <td align="center">VLMs, Ollama</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/sagemaker-llm-deployment">SageMaker LLM Deployment</a></td>
-      <td align="center">LLM Deployment on AWS</td>
+      <td align="center">LLM deployment on AWS</td>
       <td align="center">AWS SageMaker, LLMOps</td>
     </tr>
   </table>
 </details>
-
 <details>
-  <summary>🔬 Models Exploration</summary>
+  <summary>🔬 Model Exploration</summary>
+  <br>
   <table>
     <tr>
       <th align="center">Project</th>
       <th align="center">Description</th>
-      <th align="center">Model/Approach</th>
+      <th align="center">Model / Approach</th>
     </tr>
-     <tr>
+    <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/generative-modelling">Generative Modelling</a></td>
-      <td align="center">Generative Modelling</td>
-      <td align="center">Diffusion, Flow Matching, Energy-based Models</td>
+      <td align="center">Implementations across generative paradigms</td>
+      <td align="center">Diffusion, Flow Matching, Energy-Based Models</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/vlm-grpo">VLM GRPO</a></td>
-      <td align="center">Post-training Vision-Language Models</td>
+      <td align="center">Post-training vision-language models</td>
       <td align="center">GRPO</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/vlm-lora">VLM LoRA</a></td>
-      <td align="center">Fine-tuning Vision-Language Models</td>
-      <td align="center">LoRA, Parameter-Efficient Training</td>
+      <td align="center">Parameter-efficient fine-tuning of VLMs</td>
+      <td align="center">LoRA, PEFT</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/transformer-machine-translation">Transformer Machine Translation</a></td>
-      <td align="center">Neural Machine Translation from Scratch</td>
+      <td align="center">Neural machine translation built from scratch</td>
       <td align="center">Transformer, Attention Mechanisms</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/llm-ptq">Post-Training Quantization</a></td>
-      <td align="center">Post-Training 8-Bit Quantization for LLMs</td>
+      <td align="center">8-bit quantization for LLMs</td>
       <td align="center">Symmetric and Asymmetric Quantization, BitsAndBytes</td>
     </tr>
   </table>
 </details>
-
 <details>
-  <summary>🧠 Core ML/DL Projects</summary>
+  <summary>🧠 Core ML / DL Projects</summary>
+  <br>
   <table>
     <tr>
       <th align="center">Project</th>
       <th align="center">Description</th>
-      <th align="center">Model/Approach</th>
+      <th align="center">Model / Approach</th>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/SeGAN">SeGAN</a></td>
-      <td align="center">Financial Forecasting using GANs</td>
+      <td align="center">Financial forecasting using GANs</td>
       <td align="center">RNN, GANs, Time Series</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/densenet201-classifier">DenseNet201 Classifier</a></td>
-      <td align="center">Satellite Image Classification</td>
+      <td align="center">Satellite image classification</td>
       <td align="center">CNN, Transfer Learning</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/GradCAM/tree/master">GradCAM</a></td>
-      <td align="center">X-ray Image Localization</td>
+      <td align="center">X-ray image localisation</td>
       <td align="center">Computer Vision, Explainable AI</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/multi-regressor-mlp">Multi-Regressor MLP</a></td>
-      <td align="center">2D Landing Control System</td>
+      <td align="center">2D landing control system</td>
       <td align="center">Neural Networks, Control Systems</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/phrugsa-limbunlom/mimo-regressor">MIMO Regressor</a></td>
-      <td align="center">Biochemical Production Optimization</td>
+      <td align="center">Biochemical production optimisation</td>
       <td align="center">Random Forest, XGBoost, SVM</td>
     </tr>
   </table>
 </details>
+
+---
 
 ## Education & Certifications
 
