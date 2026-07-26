@@ -1,7 +1,7 @@
 <h1 align="center">Phrugsa Limbunlom (Gift) ✨</h1>
  
 <p align="center">
-AI/ML Engineer · Technical Writer · Open-Source Contributor
+AI and Software Developer · Technical Writer · Open-Source Contributor
 </p>
 
 ---
