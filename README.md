@@ -20,7 +20,7 @@ Currently, I'm deepening my expertise in generative modelling by exploring diffu
 ## Open-Source Contribution
 | Project | Description | Stat |
 |---|---|---|
-| [TorchEBM](https://github.com/soran-ghaderi/torchebm)| PyTorch library for diffusion, flow-matching, and energy-based models, covering samplers and training utilities | 13K Downloads (As of May 2026)|
+| [TorchEBM](https://github.com/soran-ghaderi/torchebm)| PyTorch library for diffusion, flow-matching, and energy-based models, covering samplers and training utilities | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/torchebm?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/torchebm)|
 ---
 
 ## Featured Projects
