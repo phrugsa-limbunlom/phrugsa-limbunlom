@@ -6,7 +6,7 @@ AI and Software Developer · Technical Writer · Open-Source Contributor
 
 ---
 I'm passionate about pioneering advancements in AI, with extensive experience in machine learning, deep learning, and generative AI systems. My journey spans from implementing traditional ML models to designing sophisticated AI workflows for automation and generative tasks. <br> <br>
-Currently, I'm deepening my expertise in generative modelling — exploring diffusion models, flow matching, energy-based models, and generative world models — driven by a strong interest in understanding how machines can learn and synthesize complex data distributions.
+Currently, I'm deepening my expertise in generative modelling by exploring diffusion models, flow matching, energy-based models, and generative world models driven by a strong interest in understanding how machines can learn and synthesize complex data distributions.
 
 ---
 ## Research Interests
